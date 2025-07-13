@@ -28,7 +28,7 @@ export default function MainLayout({ children }: { children: React.ReactNode }) 
                         <div className="p-4 rounded-full bg-primary/10 mb-4">
                            <HeartHandshake className="h-12 w-12 text-primary" />
                         </div>
-                        <CardTitle>Welcome to PwD Web3 Nexus</CardTitle>
+                        <CardTitle>Welcome to PWeDemeet</CardTitle>
                         <CardDescription>A secure and inclusive community for Persons with Disabilities.</CardDescription>
                     </CardHeader>
                     <CardContent>
