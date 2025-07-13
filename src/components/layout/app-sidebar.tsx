@@ -38,7 +38,7 @@ export default function AppSidebar() {
         <div className="flex items-center gap-3">
           <HeartHandshake className="text-primary h-8 w-8" />
           <div className="flex flex-col">
-            <h2 className="text-lg font-semibold font-headline">PwD Web3 Nexus</h2>
+            <h2 className="text-lg font-semibold font-headline">PweDemeet</h2>
           </div>
         </div>
       </SidebarHeader>
