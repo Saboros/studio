@@ -5,7 +5,7 @@ import { Toaster } from '@/components/ui/toaster';
 import MainLayout from '@/components/layout/main-layout';
 
 export const metadata: Metadata = {
-  title: 'PwD Web3 Nexus',
+  title: 'PWeDemeet',
   description: 'A Web3 dApp for the PwD community.',
 };
 
